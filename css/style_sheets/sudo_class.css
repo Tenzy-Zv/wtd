@@ -1,0 +1,14 @@
+div{
+    background-color: blue;
+    padding: 30px;
+    text-align: center;
+}
+div:hover{
+    background-color: darkolivegreen;
+}
+input:focus{
+    background-color: darkorange;
+}
+p:first-child {
+    color: rgb(235, 252, 5);
+  }

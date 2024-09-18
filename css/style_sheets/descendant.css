@@ -1,0 +1,9 @@
+div p{
+    background-color: red;
+}
+div > p{
+    background-color: brown;
+}
+section + h5{
+    background-color: darkgoldenrod;
+}

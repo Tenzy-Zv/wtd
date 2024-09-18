@@ -1,0 +1,21 @@
+p{
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1cm;
+    letter-spacing: 0cm;
+    word-spacing: 0cm;
+    font-size: 40px;
+    text-indent: 50px;
+    color: #988BFF;
+}
+h3{
+    text-align: center;
+    text-decoration: overline;
+    text-underline-offset: 10px;
+    color: rgb(255,255,21,);
+}
+div{
+    margin: 50px;
+    border: 2px solid green;
+    padding: 300px;
+}

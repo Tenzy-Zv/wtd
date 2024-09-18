@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    color: blue;
+}
+
+p.center {
+    text-decoration: underline dashed rgb(14, 207, 198);
+}
+
+h3, p, h5 {
+    background-color: rgb(60, 208, 228);
+}
